@@ -3,9 +3,9 @@
 ![L-System](https://github.com/aboutDani/L-System-D/assets/64960777/668b6927-bca1-4514-8791-03ae0c878ee6)
 
 _____________________________________________________________________________________________________________
-________________________________________________ L - System _________________________________________________
+_____________________________________________________________________________________________________________
 
-L system project where I personalize the rules to obtain something different from the standard patterns.
+This is a L system project where I personalize the rules to obtain something different from the standard patterns.
 
 The project includes:
 
